@@ -5,4 +5,4 @@ Recoding part of the STL library, with C++98 standarts.
 
 ### Usage
  * ./containers_test.sh || bash containers_test.sh
- * Only iOs version.
+ * Only macOs version.
